@@ -7,7 +7,7 @@
 
 - 🎥 I’m building next: **Ticket Turn**
 
-- 💬 Ask me about **React, NodeJs, PHP, C lenguage, Arms, Atmel & Microchip PICs**
+- 💬 Ask me about **React, NodeJs, PHP, Laravel, C lenguage, Arms, Atmel & Microchip PICs MIcrocontrollers**
 
 <p align="left">
 </p>
