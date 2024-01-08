@@ -3,7 +3,7 @@
 
 - 🎥 I’m currently building: **FcNews** , a news site with ReactJs
 
-- 🌱 I’m currently learning: **Astro, Docker & Typescript**
+- 🌱 I’m currently learning: **Python, Docker & Typescript**
 
 - 🎥 I’m building next: **Ticket Turn**
 
